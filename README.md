@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Event Form é uma pagina simples de formulário para criar e compartilhar seu evento.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/form-event-project/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nTdeque2MK5hhpDy2c0TOY/Explorer-Stage-03-Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=CSmHMF1BSJ9F34fl-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
